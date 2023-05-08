@@ -11,6 +11,7 @@ namespace ola
         static void Main(string[] args)
         {
             Console.WriteLine("ola");
+            Console.WriteLine("10");
         }
     }
 }
